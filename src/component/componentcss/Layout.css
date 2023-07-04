@@ -1,0 +1,35 @@
+.nav {
+    width: 100%;
+    background-color: antiquewhite;
+    justify-content: end;
+    padding-right: 100px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.ul {
+    display: flex;
+    /* justify-content: space-evenly; */
+    text-decoration: none;
+    font-size: 28px;
+    padding: 10px;
+}
+
+li {
+    padding-left: 50px;
+}
+
+.ul li {
+    list-style: none;
+    margin-left: 18px;
+}
+
+.ul li a {
+    text-decoration-line: none;
+}
+
+.active {
+    color: black;
+    /* border-bottom: 1px solid black; */
+}

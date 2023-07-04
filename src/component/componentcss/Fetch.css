@@ -1,0 +1,6 @@
+.img {
+    width: 500px;
+    height: 600px;
+    object-fit: cover;
+    /* background-size: cover; */
+}

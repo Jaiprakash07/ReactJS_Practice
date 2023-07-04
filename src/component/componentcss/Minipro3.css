@@ -1,0 +1,33 @@
+.gameBox {
+    width: 700px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: rgb(131, 231, 173);
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.gameBox .Minibox {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(51, 71, 64);
+    margin: auto;
+    margin-top: 40px;
+}
+
+.aa {
+    width: 700px;
+    height: 50px;
+    color: #ffffff;
+}
+
+button {
+    width: 200px;
+    height: 33px;
+    border-radius: 10px;
+    margin: auto;
+}
