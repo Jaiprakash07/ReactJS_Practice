@@ -1,6 +1,8 @@
 import React from 'react'
 import "./componentcss/Jai.css"                                           // import [link] the css file
 
+
+
 //function component
 export function Jai(props) {
   const obj1 = {
